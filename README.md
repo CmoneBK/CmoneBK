@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on pretty much everything I'm doing.
 - 📫 How to reach me. Well, putting this data out into the public is a bad idea for a teacher.
 - 😄 Pronouns: He
-- ⚡ Fun fact: I can't really code 🤷‍♂️. But I'm trying. 😁
+- ⚡ Fun fact: I can't really code 🤷‍♂️. But I'm trying 😁.
 
 <!---
 CmoneBK/CmoneBK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
